@@ -1,1 +1,1 @@
-# Merathan
+Merathan is an android app which helps to calculate our speed during running,total distance,plot graph and check improvement in running.compare friends.chat with friends during merathan.invite friends for running.A lot of features are included in this app.
