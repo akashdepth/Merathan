@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
         if (ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) ==
                 PackageManager.PERMISSION_GRANTED) {
             LocationManager lm = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-            lm.requestLocationUpdates(LocationManager.GPS_PROVIDER, 1000, 10, locationListener);
+            lm.requestLocationUpdates(LocationManager.GPS_PROVIDER, 1000, 1 , locationListener);
 
         } else {
 
@@ -145,6 +145,7 @@ public class MainActivity extends AppCompatActivity {
                 taspeed.setText(String.valueOf(df.format((total_distance*1000)/temp_time))+" Meter/Sec");
                 temp_time=temp_time/1000;
                 ttime.setText(String.valueOf(temp_time/3600)+" : "+String.valueOf((temp_time/60)%60)+" : "+String.valueOf(temp_time%60));
+                System.out.println(total_distance);
 
             }
             location1 = location2;
@@ -172,7 +173,7 @@ public class MainActivity extends AppCompatActivity {
                         // permission was granted, yay! Do the
                         // contacts-related task you need to do.
                         LocationManager lm = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-                        lm.requestLocationUpdates(LocationManager.GPS_PROVIDER, 2000, 10, locationListener);
+                        lm.requestLocationUpdates(LocationManager.GPS_PROVIDER, 1000, 1, locationListener);
 
 
 
