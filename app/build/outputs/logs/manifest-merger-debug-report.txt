@@ -41,7 +41,7 @@ MERGED from [com.android.support:support-v4:24.1.1] /Users/akash/AndroidStudioPr
 MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.1.1] /Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:10:9-36
 	android:supportsRtl
 		ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:11:9-35
 	android:allowBackup
@@ -53,7 +53,7 @@ MERGED from [com.android.support:support-v4:24.1.1] /Users/akash/AndroidStudioPr
 activity#apps.myapplication.MainActivity
 ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:13:9-22:20
 	android:label
-		ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:15:13-45
+		ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:15:13-40
 	android:theme
 		ADDED from /Users/akash/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:16:13-56
 	android:name
