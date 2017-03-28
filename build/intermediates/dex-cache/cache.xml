@@ -1,2 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/akash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_629985941ab7098dec4d2b1993fba5dc1ec9dbdb.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_b165d1d3bf431462663a76b9af2fe8e2633e8c48.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_f0c00f7d4f9dd0756dae5bdd6096b4cf564f9e22.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_f0c00f7d4f9dd0756dae5bdd6096b4cf564f9e22.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_b165d1d3bf431462663a76b9af2fe8e2633e8c48.jar" />
+    </item>
+    <item
+        jar="/Users/akash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_629985941ab7098dec4d2b1993fba5dc1ec9dbdb.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_e68a4581c65c1cb891c42b3b74a0337dde607828.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_e68a4581c65c1cb891c42b3b74a0337dde607828.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_cac6694742716ace4892bc56ac59a929584aa20b.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_493da7bf0711eeaf2ac8ea7a19db6951479f2119.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_493da7bf0711eeaf2ac8ea7a19db6951479f2119.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_cac6694742716ace4892bc56ac59a929584aa20b.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_e6d4c8764fedf0ed3e8dfacd83c06ab10cfc0a50.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_e6d4c8764fedf0ed3e8dfacd83c06ab10cfc0a50.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_12ab803bae510c316c1637753effe3f403a66463.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_12ab803bae510c316c1637753effe3f403a66463.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_07990f7f2872a739b9e6479b1588772ba9684f28.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_029ab7aaec91b23e6593d21e1590ff2818b91926.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_029ab7aaec91b23e6593d21e1590ff2818b91926.jar" />
+    </item>
+    <item
+        jar="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/akash/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_07990f7f2872a739b9e6479b1588772ba9684f28.jar" />
+    </item>
+
+</items>

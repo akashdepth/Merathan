@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Total Distance Covered"
+        android:text="Total Distance"
         android:id="@+id/textView" />
     <TextView
         android:layout_width="wrap_content"
@@ -36,14 +36,46 @@
         android:layout_width="wrap_content"
         android:text="Start"
         android:onClick="selfDestruct"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:id="@+id/button2" />
+
     <Button
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:text="Reset"
         android:onClick="selfReset"
         android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:id="@+id/button" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/save"
+        android:onClick="selfSave"
+        android:layout_above="@+id/button2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="History"
+        android:id="@+id/button3"
+        android:onClick="selfHistory"
+        android:layout_alignTop="@+id/save"
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignStart="@+id/button" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:onClick="selfStop"
+        android:id="@+id/button4"
+        android:layout_below="@+id/button3"
+        android:layout_centerHorizontal="true" />
+
 
     <TextView
         android:layout_width="wrap_content"
@@ -123,13 +155,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="To update above data change your location. This app is working using Gps location service."
-        android:id="@+id/textView7"
-        android:layout_below="@+id/textView10"
-        android:layout_marginTop="84dp" />
+
 
 </RelativeLayout>
